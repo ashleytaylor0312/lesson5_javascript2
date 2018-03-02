@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Ashley Taylor
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We modify the application to provide calculate for different filing brackets. It will produce the estimate of the tax rate and tax amount based on the the user(s) filing status and their income.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ashleytaylor0312.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to place values into an Array
+2. Having the program make decision based on conditional statement I list
+3. How to use functions to create reusable code.
 
